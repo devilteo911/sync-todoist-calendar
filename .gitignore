@@ -1,0 +1,7 @@
+/.vscode
+/credentials.json
+/README.md
+/todoist_token.json
+/token.json
+/venv
+/__pycache__
